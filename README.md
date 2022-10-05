@@ -1,4 +1,4 @@
-# 🏄‍♂️ Muhammet Anil Yagiz
+# 👨‍💻  Muhammet Anil Yagiz
 
 **`Full-Stack Developer (Blockchain/AI/Robotic/Guitar Player)`**
 
@@ -37,7 +37,7 @@ I'm a Full Stack Developer that loves to develop applications and see how people
 
 #
 
-### 📊 Stats
+
 
 
 #
