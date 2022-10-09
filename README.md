@@ -44,7 +44,6 @@ I'm a Full Stack Developer that loves to develop applications and see how people
 
 <details>
  <summary><h3>👨‍💻 Anıl's Coding Journey</h3></summary>
-  ----------------------------
-
+  i'm currently building my own v8 engine
 [website]: currently making
 [youtube]: https://www.youtube.com/channel/UCGtEmOEA2luJaAthufN_M-g
