@@ -1,14 +1,24 @@
-# 👨‍💻  Muhammet Anil Yagiz
+# 👨‍💻 Muhammet Anıl Yağız
 
-**`Full-Stack Developer (Blockchain/AI/Robotic/Guitar Player)`**
+**`Full-Stack Developer | AI & Security Researcher | Blockchain Enthusiast | Roboticist | Guitarist`**
 
-I'm a Full Stack Developer that loves to develop applications and see how people interact with them. I have experience with web development,blockchain,ai,databases,and 3d modelling. I like to do academic research and write articles. I try to develop applications that can meet the needs of people.When I start a project, I handle it down to the last detail because I think that's how a person can develop himself best.
+Hi there! 👋 I'm a passionate Full-Stack Developer with a penchant for creating impactful applications and exploring cutting-edge technologies. My interests span across **Artificial Intelligence**, **Blockchain**, **Robotics**, and even **High-Energy Physics**. I thrive on diving deep into projects, from coding robust backends to crafting intuitive frontends, ensuring every detail is polished to perfection.
 
+Beyond development, I actively engage in **academic research**, author articles, and contribute to the broader tech community. My ultimate goal? To build solutions that resonate with people and make a difference. 🚀
 
-  
 ---
 
-### 🧰 Languages and Tools
+### 🌟 Core Expertise
+
+- **AI & Machine Learning**: Research and application in NLP, Computer Vision, and deep learning.  
+- **Blockchain**: Development of decentralized applications and smart contracts.  
+- **Web Development**: Full-stack applications using modern frameworks.  
+- **Robotics**: Designing and programming intelligent robotic systems.  
+- **High-Energy Physics**: Leveraging computational power for complex simulations.
+
+---
+
+### 🛠️ Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -27,23 +37,13 @@ I'm a Full Stack Developer that loves to develop applications and see how people
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+<br />
 
-#
+---
 
+### 🔗 Connect With Me
 
+- **Google Scholar**: [Muhammet Anıl Yağız](https://scholar.google.com/citations?user=KDqGjjYAAAAJ&hl=en)  
+- **YouTube**: [My Channel](https://www.youtube.com/channel/UCGtEmOEA2luJaAthufN_M-g)  
 
-
-
-
-#
-
-
-
-
-#
-
-<details>
- <summary><h3>👨‍💻 Anıl's Coding Journey</h3></summary>
-  i'm currently building my own v8 engine
-[website]: currently making
-[youtube]: https://www.youtube.com/channel/UCGtEmOEA2luJaAthufN_M-g
+---
